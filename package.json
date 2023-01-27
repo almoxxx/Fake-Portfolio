@@ -1,23 +1,23 @@
 {
-  "name": "advanced-bootstrap-homework-challenge",
+  "name": "fake-portfolio",
   "version": "1.0.0",
   "description": "",
   "main": "index.html",
   "scripts": {
     "start": "serve",
-    "build": "echo This is a static template, there is no bundler or bundling involved!"
+    "build": ""
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codesandbox-app/static-template.git"
+    "url": ""
   },
   "keywords": [],
-  "author": "Ives van Hoorne",
-  "license": "MIT",
+  "author": "Alena",
+  "license": "",
   "bugs": {
-    "url": "https://github.com/codesandbox-app/static-template/issues"
+    "url": "https://google.com"
   },
-  "homepage": "https://github.com/codesandbox-app/static-template#readme",
+  "homepage": "",
   "devDependencies": {
     "serve": "^11.2.0"
   }
